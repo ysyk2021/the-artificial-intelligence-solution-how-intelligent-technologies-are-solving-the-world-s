@@ -12,7 +12,7 @@ Throughout this book, we will highlight examples of organizations and individual
 
 Whether you are a student, professional, or simply interested in the field of AI and its potential to make a difference in the world, this book will provide valuable insights and inspiration. So let's dive in and explore how intelligent technologies are solving the world's biggest problems.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
