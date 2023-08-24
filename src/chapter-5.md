@@ -1,5 +1,3 @@
-Chapter 5: Ethical and Legal Issues Related to AI in Problem-Solving
-====================================================================
 
 As with any technology, the use of artificial intelligence (AI) in problem-solving raises ethical and legal issues that must be considered. In this chapter, we will explore some of the most significant ethical and legal considerations related to AI in problem-solving.
 

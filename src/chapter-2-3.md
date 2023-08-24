@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 In this chapter, we will explore the fundamentals of artificial intelligence (AI), with a focus on machine learning techniques. AI is an interdisciplinary field that combines computer science, mathematics, and engineering to create intelligent machines that can learn from experience and perform tasks that would typically require human intelligence.
 

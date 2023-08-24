@@ -1,5 +1,3 @@
-Chapter 4: Benefits and Limitations of AI in Problem-Solving
-============================================================
 
 Artificial intelligence (AI) has the potential to revolutionize how we approach and solve complex problems. However, like any technology, AI has its benefits and limitations. In this chapter, we will explore some of the key advantages and challenges associated with AI in problem-solving.
 

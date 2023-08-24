@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 In this chapter, we will explore the types of artificial intelligence (AI) and how they are used to solve complex problems. AI is a rapidly evolving field that encompasses a wide range of technologies and applications. Understanding the different types of AI can help us better appreciate their capabilities and potential.
 

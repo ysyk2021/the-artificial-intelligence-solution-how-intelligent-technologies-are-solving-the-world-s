@@ -1,5 +1,3 @@
-Chapter 7: Case Studies of AI in Problem-Solving
-================================================
 
 In this chapter, we will explore several case studies of successful implementations of artificial intelligence (AI) in problem-solving across a range of global issues.
 

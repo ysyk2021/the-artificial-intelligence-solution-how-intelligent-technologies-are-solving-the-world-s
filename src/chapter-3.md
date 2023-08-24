@@ -1,5 +1,3 @@
-Chapter 3: Applications of AI in Problem-Solving
-================================================
 
 Artificial intelligence (AI) has the potential to solve some of the most complex and pressing issues facing our world today. In this chapter, we will explore some of the key applications of AI in problem-solving across different fields.
 

@@ -1,5 +1,3 @@
-Legal Framework
-=====================================================================================
 
 As the use of artificial intelligence (AI) continues to grow in problem-solving, there are concerns about ethical and legal implications. In this chapter, we will focus on the legal framework regarding AI in problem-solving.
 

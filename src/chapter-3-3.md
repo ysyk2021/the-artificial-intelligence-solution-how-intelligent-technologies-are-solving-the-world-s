@@ -1,5 +1,3 @@
-Poverty Reduction and Economic Development
-============================================================================================
 
 Artificial intelligence (AI) technologies have the potential to play a significant role in reducing poverty and promoting economic development. This chapter explores the applications of AI in problem-solving related to poverty reduction and economic development.
 

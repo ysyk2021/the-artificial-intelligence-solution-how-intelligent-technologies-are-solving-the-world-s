@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial intelligence (AI) is transforming the world as we know it, with intelligent technologies being used to solve some of the biggest problems facing humanity. From healthcare and education to sustainability and poverty reduction, AI has the potential to revolutionize how we approach these challenges.
 

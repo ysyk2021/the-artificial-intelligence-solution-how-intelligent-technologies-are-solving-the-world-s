@@ -1,5 +1,3 @@
-Challenges and Risks Associated with AI in Problem-Solving
-========================================================================================================================
 
 As artificial intelligence (AI) becomes more prevalent in problem-solving, it is important to consider both the benefits and limitations of its use. In this chapter, we will explore some of the key challenges and risks associated with AI in problem-solving.
 

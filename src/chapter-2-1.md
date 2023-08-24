@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial intelligence (AI) has a rich history that spans several decades. In this chapter, we will explore the key events, people, and technologies that have shaped the development of AI.
 

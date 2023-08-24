@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 Artificial intelligence (AI) has the potential to address some of the world's biggest problems, from healthcare to climate change. The purpose of this book is to explore how intelligent technologies are solving these problems and to provide a comprehensive overview of AI technologies and their applications.
 

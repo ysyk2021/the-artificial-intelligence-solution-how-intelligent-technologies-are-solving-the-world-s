@@ -1,5 +1,3 @@
-Overview of the Role of AI in Problem-Solving
-======================================================================
 
 Artificial intelligence (AI) has the potential to solve some of the world's biggest problems. In this chapter, we will provide an overview of the role of AI in problem-solving and explore how it is being used to address some of the most significant challenges facing society today.
 
